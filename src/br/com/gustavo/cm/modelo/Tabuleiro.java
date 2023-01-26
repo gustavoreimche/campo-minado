@@ -1,10 +1,10 @@
-package br.com.cod3r.cm.modelo;
+package br.com.gustavo.cm.modelo;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-import br.com.cod3r.cm.excecao.ExplosaoException;
+import br.com.gustavo.cm.excecao.ExplosaoException;
 
 public class Tabuleiro {
 

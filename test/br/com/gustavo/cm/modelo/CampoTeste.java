@@ -1,11 +1,12 @@
-package br.com.cod3r.cm.modelo;
+package br.com.gustavo.cm.modelo;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import br.com.cod3r.cm.excecao.ExplosaoException;
+import br.com.gustavo.cm.excecao.ExplosaoException;
+import br.com.gustavo.cm.modelo.Campo;
 
 public class CampoTeste {
 

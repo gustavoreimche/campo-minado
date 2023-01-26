@@ -1,4 +1,4 @@
-package br.com.cod3r.cm.excecao;
+package br.com.gustavo.cm.excecao;
 
 public class ExplosaoException extends RuntimeException {
 

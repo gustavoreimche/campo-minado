@@ -1,7 +1,7 @@
-package br.com.cod3r.cm;
+package br.com.gustavo.cm;
 
-import br.com.cod3r.cm.modelo.Tabuleiro;
-import br.com.cod3r.cm.visao.TabuleiroConsole;
+import br.com.gustavo.cm.modelo.Tabuleiro;
+import br.com.gustavo.cm.visao.TabuleiroConsole;
 
 public class Aplicacao {
 
